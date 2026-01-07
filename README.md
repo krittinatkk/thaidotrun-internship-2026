@@ -23,3 +23,15 @@ thaidotrun-internship-2026/
 ├── docs/ # Documentation
 
 └── dashboard/ # Streamlit dashboard
+
+
+## 🛠️ Setup Instructions
+```bash
+# Clone repository
+git clone https://github.com/YOUR-USERNAME/thaidotrun-internship-2024.git
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run analysis
+jupyter notebook notebooks/01_data_exploration.ipynb
