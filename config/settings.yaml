@@ -1,0 +1,22 @@
+# config/settings.yaml
+project:
+  name: "ThaiDotRun Internship Project"
+  author: "Krittinat"
+  version: "1.0.0"
+
+data:
+  raw_path: "data/raw/bkk_data_final.csv"
+  processed_path: "data/processed/"
+  outputs_path: "data/outputs/"
+
+analysis:
+  age_groups: [0, 18, 30, 45, 60, 100]
+  price_categories: [0, 500, 1000, 2000, 5000]
+  
+visualization:
+  style: "seaborn-whitegrid"
+  palette: "husl"
+  figsize:
+    small: [8, 6]
+    medium: [12, 8]
+    large: [16, 10]
