@@ -11,9 +11,15 @@ Analysis of running event registration data to optimize ThaiDotRun's event manag
 
 ## 📁 Project Structure
 thaidotrun-internship-2026/
+
 ├── data/ # Data storage
+
 ├── notebooks/ # Jupyter notebooks
+
 ├── src/ # Python source code
+
 ├── reports/ # Analysis reports
+
 ├── docs/ # Documentation
+
 └── dashboard/ # Streamlit dashboard
