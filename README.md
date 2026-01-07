@@ -28,7 +28,7 @@ thaidotrun-internship-2026/
 ## 🛠️ Setup Instructions
 ```bash
 # Clone repository
-git clone https://github.com/YOUR-USERNAME/thaidotrun-internship-2024.git
+git clone https://github.com/YOUR-USERNAME/thaidotrun-internship-2026.git
 
 # Install dependencies
 pip install -r requirements.txt
